@@ -1,0 +1,23 @@
+{
+  "name": "reactadddelete",
+  "version": "1.0.0",
+  "description": "simple react add/delete items",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/John-Muriu/delete_add_react.git"
+  },
+  "keywords": [
+    "delete",
+    "add"
+  ],
+  "author": "john muriu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/John-Muriu/delete_add_react/issues"
+  },
+  "homepage": "https://github.com/John-Muriu/delete_add_react#readme"
+}
